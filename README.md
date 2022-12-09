@@ -8,4 +8,3 @@ EDIT: In the CSS i fixed the <div> on lines 35 and 39 and changed it to nav in o
 In addition, the hyperlink "Search-engine-Optimization" was not working, so on line 29 I added the id= to make sure thet the link would work.
 
 Next i noticed in the CSS that the font style was repeated a lot, which i think is not necesarry and therefore applied it to the <body> and removed all the redundant instances of it.
-
